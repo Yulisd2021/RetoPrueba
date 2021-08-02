@@ -1,0 +1,4 @@
+com/choucairtesting/automation/ui/FromPage.java
+ com.choucairtesting.automation.ui.FromPage
+com/choucairtesting/automation/interactions/OpenTheBrowser.java
+ com.choucairtesting.automation.interactions.OpenTheBrowser
